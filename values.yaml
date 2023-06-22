@@ -61,7 +61,7 @@ secrets:
   determined:
     enabled: true
     data:
-      test: hello
+      test: hello2
 
 postgresql:
   enabled: true
